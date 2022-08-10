@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: ✨ Apprenez _ n'importe quoi _ avec
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
@@ -11,10 +11,10 @@ feature:
     description:
   - icon: video
     icon_pack: fas
-    name: Video
+    name: Videos
     description:
-  - icon: code
+  - icon: blog
     icon_pack: fas
-    name: Math & Code
+    name: Blogues
     description:
 ---
