@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: VRD CENTRE
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Voiries et Réseaux Divers
 
 # Organizations/Affiliations
 organizations:
@@ -40,13 +40,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:contact@vrdcentre.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/vrdcentre
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.facebook.com/vrdcentre
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
