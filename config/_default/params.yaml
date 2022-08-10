@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} VRDCENTRE. Ce travail est sous licence {license}'
+    notice: '© {year} VRDCENTRE | Alimenté par {https://www.akselinc.com}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
