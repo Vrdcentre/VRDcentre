@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} VRDCENTRE | Alimenté par Akselinc.com'
+    notice: '© {year} VRDCENTRE | Alimenté par Akselinc.com {license}'
     license:
       enable: false
       allow_derivatives: false
