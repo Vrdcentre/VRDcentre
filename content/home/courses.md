@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Explorez les meilleurs cours
 subtitle:
 content:
   filters:
@@ -16,12 +16,12 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Tous les cours
       tag: '*'
-    - name: Previous
-      tag: previous
-    - name: Current
-      tag: current
+    - name: Précédent
+      tag: precedent
+    - name: Actuel
+      tag: actuel
 design:
   columns: '1'
   view: masonry
