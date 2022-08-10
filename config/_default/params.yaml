@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'VRD CENTRE est un service gratuit d'apprentissage des Voiries et Réseaux Divers (VRD).'
+    description: "VRD CENTRE est un service gratuit d'apprentissage des Voiries et Réseaux Divers (VRD)."
     twitter: 'vrdcentre'
   analytics:
     google_analytics: ''
