@@ -3,7 +3,7 @@ name = "Custom Theme"
 
 [light]
   # Primary
-  primary = "#FBFBFB"
+  primary = "#51B56D"
 
   # Links
   link = "#51B56D"
@@ -12,7 +12,7 @@ name = "Custom Theme"
   # Menu
   menu_primary = "rgb(251, 251, 251)"
   menu_text = "#000"
-  menu_text_active = "#0072ff"
+  menu_text_active = "#000"
   menu_title = "#000"
 
   # Home sections
