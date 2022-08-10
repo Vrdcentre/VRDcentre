@@ -19,7 +19,7 @@ cta_alt:
 design:
   background:
     gradient_angle: 0
-    gradient_start: rgb(224,223,255)
+    gradient_start: "#FBFBFB"
     gradient_end: "#FBFBFB"
     text_color_light: false
 hero_media: teacher.png
