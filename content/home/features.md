@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: Des talents prêts à l'emploi. Résultats supérieurs.
+title: Pas d'engagement
 subtitle: ✨ Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur
 feature:
   - icon: chalkboard-teacher
