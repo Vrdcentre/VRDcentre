@@ -9,7 +9,7 @@ feature:
     icon_pack: fas
     name: > 500 articles
     description: null
-  - icon: circle-dollar-to-slot
+  - icon: circle-dollar
     icon_pack: fas
     name: 100% gratuit
     description: null
