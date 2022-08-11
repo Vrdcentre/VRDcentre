@@ -1,12 +1,12 @@
 ---
 title: VRD CENTRE
 role: Voiries et Réseaux Divers
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: L'endroit où vous pouvez apprendre VRD gratuitement et devenir bon dans ce
+  domaine.
 interests:
   - Voirie
   - Assainissement
-  - et Réseaux divers.
+  - Réseaux divers
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,19 +23,10 @@ social:
     icon_pack: fab
     icon: pinterest
 organizations:
-  - name: VRDcentre
+  - name: vrdcentre.com
     url: ""
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 user_groups:
