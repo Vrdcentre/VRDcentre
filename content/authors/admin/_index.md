@@ -4,7 +4,7 @@ role: Voiries et Réseaux Divers
 bio: L'endroit où vous pouvez apprendre VRD gratuitement et devenir bon dans ce
   domaine.
 interests:
-  - Voirie
+  - Voiries
   - Assainissement
   - Réseaux divers
 social:
@@ -22,9 +22,7 @@ social:
     link: https://pinterest.com/vrdcentre
     icon_pack: fab
     icon: pinterest
-organizations:
-  - name: vrdcentre.com
-    url: https://vrdcentre.com/
+organizations: []
 education:
   courses: []
 email: ""
