@@ -11,7 +11,7 @@ feature:
     description:
   - icon: video
     icon_pack: fas
-    name: 100% gratuit
+    name: gratuit
     description:
   - icon: code
     icon_pack: fas
