@@ -5,17 +5,17 @@ weight: 20
 title: Pas d'engagement
 subtitle: ✨ Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur
 feature:
-  - icon: chalkboard-teacher
+  - icon: book
     icon_pack: fas
-    name: Slides
+    name: > 500 articles
     description: null
-  - icon: video
+  - icon: circle-dollar-to-slot
     icon_pack: fas
-    name: Videos
+    name: 100% gratuit
     description: null
-  - icon: blog
+  - icon: infinity
     icon_pack: fas
-    name: Blogues
+    name: Accès illimité
     description: null
 widget_id: Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur
 ---
