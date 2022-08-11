@@ -9,7 +9,7 @@ feature:
     icon_pack: fas
     name: > 500 articles
     description: null
-  - icon: circle-dollar
+  - icon: video
     icon_pack: fas
     name: 100% gratuit
     description: null
