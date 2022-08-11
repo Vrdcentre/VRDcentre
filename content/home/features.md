@@ -7,7 +7,7 @@ subtitle: ✨ Apprendre n'épuise jamais l'esprit.
 feature:
   - icon: book
     icon_pack: fas
-    name: '>'500 articles
+    name: Plus de 500 articles
     description:
   - icon: usd-circle
     icon_pack: fas
