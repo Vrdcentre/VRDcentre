@@ -4,10 +4,23 @@ subtitle: Lorem Ipsum
 date: 2022-08-11T20:25:08.504Z
 draft: false
 featured: false
+authors:
+  - vrdcentre
+tags:
+  - lorem
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
+  alt_text: lassical Latin literature from 45 BC, making it over 2000 years old.
+    Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,
+    looked up one of the more obscure Latin words, consectetur, from a Lorem
+    Ipsum passage, and going through the cites of the word in classical
+    literature, discovered the undoubtable source. Lorem Ipsum comes from
+    sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The
+    Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a
+    treatise on the theory of ethics, very popular during the Renaissance. The
+    first line of Lo
 ---
 ## What is Lorem Ipsum?
 
