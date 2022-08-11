@@ -2,20 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Pas d'engagement
-subtitle: ✨ Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur
+title: Features
+subtitle: ✨ Teach _anything_ with
 feature:
-  - icon: book
+  - icon: chalkboard-teacher
     icon_pack: fas
-    name: > 500 articles
-    description: null
-  - icon: usd-circle
+    name: Slides
+    description:
+  - icon: video
     icon_pack: fas
-    name: 100% gratuit
-    description: null
-  - icon: infinity
+    name: Video
+    description:
+  - icon: code
     icon_pack: fas
-    name: Accès illimité
-    description: null
-widget_id: Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur
+    name: Math & Code
+    description:
 ---
