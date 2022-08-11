@@ -9,7 +9,7 @@ feature:
     icon_pack: fas
     name: Plus de 500 articles
     description:
-  - icon: circle-dollar
+  - icon: coins
     icon_pack: fas
     name: 100% gratuit
     description:
