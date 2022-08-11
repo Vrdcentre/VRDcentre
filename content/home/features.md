@@ -7,14 +7,14 @@ subtitle: ✨ Apprendre n'épuise jamais l'esprit.
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: > 500 articles
     description:
   - icon: video
     icon_pack: fas
-    name: Video
+    name: 100% gratuit
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: accès illimité
     description:
 ---
