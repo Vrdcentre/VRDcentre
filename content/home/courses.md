@@ -1,11 +1,11 @@
 ---
 widget: portfolio
-widget_id: 
+widget_id: Explorez les meilleurs cours
 headless: true
 weight: 30
 title: Explorez les meilleurs cours
 subtitle: null
-active: false
+active: true
 content:
   filters:
     folders:
