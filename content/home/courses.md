@@ -27,6 +27,6 @@ design:
   view: masonry
   flip_alt_rows: false
   background:
-    gradient_start: ""
-    gradient_end: ""
+    gradient_start: "#fbfbfb"
+    gradient_end: "#fbfbfb"
 ---
