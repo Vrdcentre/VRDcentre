@@ -1,5 +1,5 @@
 ---
-title: Voiries et Réseaux Divers
+title: VRD centre
 role: Voiries et Réseaux Divers
 bio: L'endroit où vous pouvez apprendre VRD gratuitement et devenir bon dans ce
   domaine.
