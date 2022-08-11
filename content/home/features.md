@@ -5,15 +5,15 @@ weight: 20
 title: Pas d'engagement
 subtitle: ✨ Apprendre n'épuise jamais l'esprit.
 feature:
-  - icon: chalkboard-teacher
+  - icon: book
     icon_pack: fas
     name: 500 articles
     description:
-  - icon: video
+  - icon: usd-dollar
     icon_pack: fas
-    name: gratuit
+    name: 100% gratuit
     description:
-  - icon: code
+  - icon: infinity
     icon_pack: fas
     name: accès illimité
     description:
