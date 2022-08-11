@@ -24,7 +24,7 @@ social:
     icon: pinterest
 organizations:
   - name: vrdcentre.com
-    url: ""
+    url: https://vrdcentre.com/
 education:
   courses: []
 email: ""
