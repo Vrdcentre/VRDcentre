@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'VRD Centre' # Website name
-baseURL: 'https://vrdcentre.com/' # Website URL
+baseURL: 'https://vrd.netlify.app/' # Website URL
 
 ############################
 ## PAGE OPTIONS
