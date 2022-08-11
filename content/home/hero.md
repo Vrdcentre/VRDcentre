@@ -12,7 +12,7 @@ cta:
 widget_id: vrd
 headless: true
 weight: 10
-title: Voiries et Réseaux Divers (VRD)
+title: Apprendre VRD sans limites
 cta_alt:
   ? url
   ? label
@@ -24,8 +24,5 @@ design:
     text_color_light: false
 hero_media: teacher.png
 ---
-
 <br>
-VRD CENTRE est un service gratuit d'apprentissage des Voiries et Réseaux Divers (VRD).
-
-
+Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur, et 100 % gratuit..
