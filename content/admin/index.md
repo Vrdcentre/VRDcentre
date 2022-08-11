@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: VRDcentre
+type: Wowchemycms
 private: true
 outputs:
   - wowchemycms_config
