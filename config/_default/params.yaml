@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: ''
     content_dir: content
     branch: main
   comment:
@@ -80,7 +80,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''
