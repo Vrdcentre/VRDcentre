@@ -25,4 +25,4 @@ design:
 hero_media: teacher.png
 ---
 <br>
-Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur, et 100 % gratuit..
+Apprenez à votre rythme, avec un accès à vie sur mobile et ordinateur, et 100 % gratuit.
