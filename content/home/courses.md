@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: Explorez les meilleurs cours
+widget_id: 
 headless: true
 weight: 30
 title: Explorez les meilleurs cours
